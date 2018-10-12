@@ -1,3 +1,2 @@
-# Word-Color-Play
+# This is an application that improves production and improves work efficiency.
 
-This is a about Word Color Game.
